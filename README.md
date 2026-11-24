@@ -1,1 +1,1 @@
-# fcitx5-mokz
+# fcitx5-mokzに移行
