@@ -1,1 +1,1 @@
-# fcitx5-minimal-addon
+# fcitx5-mokz
